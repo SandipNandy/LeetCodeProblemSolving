@@ -9,7 +9,6 @@ Constraints:
 1≤length of s≤5×10 
 4
  
-
 1≤K≤26 (Typically, K is constrained to a small, positive integer)
 
 s consists of English letters, digits, symbols, and spaces.
@@ -99,5 +98,6 @@ Example 7 (Edge Case)
 
 The longest substring is any single character (e.g., "a" or "b").
 """
+
 
 
