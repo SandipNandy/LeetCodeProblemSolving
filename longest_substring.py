@@ -24,6 +24,7 @@ class Solution:
 
         Constraints:
             0 <= s.length <= 5 * 10^4
+            
             s consists of English letters, digits, symbols and spaces.
 
         Args:
@@ -90,4 +91,5 @@ if __name__ == "__main__":
     print(f"Input: 'abcabcbb', Output: {solver.lengthOfLongestSubstring('abcabcbb')}")
     print(f"Input: 'pwwkew', Output: {solver.lengthOfLongestSubstring('pwwkew')}")
     print(f"Input: 'bbbbb', Output: {solver.lengthOfLongestSubstring('bbbbb')}")    
+
     
