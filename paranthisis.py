@@ -6,7 +6,6 @@ Example 1:
 Input: n = 3
 Output: ["((()))","(()())","(())()","()(())","()()()"]
 Example 2:
-
 Input: n = 1
 Output: ["()"]
 """
@@ -30,6 +29,7 @@ solver1 = Solution()
 output1 = solver1.generateParenthesis(n1)
 print(f"Input: n = {n1}")
 print(f"Output: {output1}")
+
 
 
 
