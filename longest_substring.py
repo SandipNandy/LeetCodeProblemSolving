@@ -7,6 +7,7 @@ class Solution:
         The solution uses the Sliding Window pattern, which provides an efficient O(n)
         time complexity.
 
+
         Example 1:
             Input: s = "abcabcbb"
             Output: 3
@@ -93,5 +94,6 @@ if __name__ == "__main__":
     print(f"Input: 'bbbbb', Output: {solver.lengthOfLongestSubstring('bbbbb')}")    
 
     
+
 
 
