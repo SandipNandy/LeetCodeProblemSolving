@@ -1,5 +1,4 @@
 """
-    
 Given a string s, return the longest palindromic substring in s.
 
 Example 1:
@@ -57,4 +56,5 @@ solution = Solution()
 print(solution.longestPalindrome("babad"))  # Output: "bab" or "aba"
 
 print(solution.longestPalindrome("cbbd"))   # Output: "bb"# Output: "bb"    
+
 
