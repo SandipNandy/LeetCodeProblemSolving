@@ -4,7 +4,6 @@ class Solution:
         Finds the length of the longest substring in 's' without duplicate characters.
 
         The solution uses the Sliding Window pattern, which provides an efficient O(n)
-        
         time complexity.
 
         Example 1:
@@ -25,7 +24,6 @@ class Solution:
 
         Constraints:
             0 <= s.length <= 5 * 10^4
-            
             s consists of English letters, digits, symbols and spaces.
 
         Args:
@@ -92,6 +90,4 @@ if __name__ == "__main__":
     print(f"Input: 'abcabcbb', Output: {solver.lengthOfLongestSubstring('abcabcbb')}")
     print(f"Input: 'pwwkew', Output: {solver.lengthOfLongestSubstring('pwwkew')}")
     print(f"Input: 'bbbbb', Output: {solver.lengthOfLongestSubstring('bbbbb')}")    
-
     
-
