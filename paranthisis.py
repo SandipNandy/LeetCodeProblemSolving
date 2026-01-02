@@ -25,10 +25,12 @@ class Solution:
         return res
 n1 = 2
 
+
 solver1 = Solution()
 output1 = solver1.generateParenthesis(n1)
 print(f"Input: n = {n1}")
 print(f"Output: {output1}")
+
 
 
 
