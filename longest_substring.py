@@ -1,4 +1,5 @@
 class Solution:
+    
     def lengthOfLongestSubstring(self, s: str) -> int:
         
         """
@@ -92,4 +93,5 @@ if __name__ == "__main__":
     print(f"Input: 'bbbbb', Output: {solver.lengthOfLongestSubstring('bbbbb')}")    
 
     
+
 
