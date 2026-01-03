@@ -2,7 +2,6 @@
 """
  Problem: Longest Substring with At Most K Distinct Characters
 Question:
-
 Given a string s and an integer K, find the length of the longest substring T that contains at most K distinct characters.
 Constraints:
 1≤length of s≤5×10 
@@ -96,6 +95,7 @@ Example 7 (Edge Case)
 
 The longest substring is any single character (e.g., "a" or "b").
 """
+
 
 
 
