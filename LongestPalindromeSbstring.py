@@ -13,7 +13,6 @@ Input: s = "cbbd"
 Output: "bb"
  
 Constraints:
-
 1 <= s.length <= 1000
 s consist of only digits and English letters.
 
@@ -56,6 +55,7 @@ solution = Solution()
 print(solution.longestPalindrome("babad"))  # Output: "bab" or "aba"
 
 print(solution.longestPalindrome("cbbd"))   # Output: "bb"# Output: "bb"    
+
 
 
 
