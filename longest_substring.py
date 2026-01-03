@@ -1,7 +1,6 @@
 class Solution:
     
     def lengthOfLongestSubstring(self, s: str) -> int:
-        
         """
         Finds the length of the longest substring in 's' without duplicate characters.
         The solution uses the Sliding Window pattern, which provides an efficient O(n)
@@ -93,6 +92,7 @@ if __name__ == "__main__":
     print(f"Input: 'bbbbb', Output: {solver.lengthOfLongestSubstring('bbbbb')}")    
 
     
+
 
 
 
