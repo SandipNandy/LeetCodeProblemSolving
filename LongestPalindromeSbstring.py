@@ -7,6 +7,7 @@ Example 1:
 Input: s = "babad"
 Output: "bab"
 Explanation: "aba" is also a valid answer.
+
 Example 2:
 
 Input: s = "cbbd"
@@ -55,6 +56,7 @@ solution = Solution()
 print(solution.longestPalindrome("babad"))  # Output: "bab" or "aba"
 
 print(solution.longestPalindrome("cbbd"))   # Output: "bb"# Output: "bb"    
+
 
 
 
