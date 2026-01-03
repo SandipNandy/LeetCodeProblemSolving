@@ -11,7 +11,6 @@ Constraints:
 s consists of English letters, digits, symbols, and spaces.
 
 Key Definition:
-
 A substring is a contiguous sequence of characters within a string. The "distinct characters" in the substring T must be ≤K.
 
 Test Cases
@@ -95,6 +94,7 @@ Example 7 (Edge Case)
 
 The longest substring is any single character (e.g., "a" or "b").
 """
+
 
 
 
